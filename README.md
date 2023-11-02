@@ -2,8 +2,8 @@
 ## Universidad Nacional de Trujillo - Ingeniería Mecatrónica
 
 Autores:  
-  - Alvarez Sanchez, Arturo Estefano
-  - Querevalú Vasques, Carlos Marcelo
+  - Alvarez Sanchez, Arturo Estefano (https://github.com/4rturo4Lvarez)
+  - Querevalú Vasques, Carlos Marcelo (https://github.com/CarlosMQV)
 
 Referencias:
   - Norton, R. L. (2009). _Diseño de maquinaria: Síntesis y análisis de máquinas y mecanismos_ (4.a ed.). Mc Graw Hill.
